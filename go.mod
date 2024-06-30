@@ -1,4 +1,4 @@
-module musicserver
+module antify
 
 go 1.20
 

@@ -1,9 +1,9 @@
 package main
 
 import (
+	"antify/cmd"
 	"fmt"
 	"log"
-	"musicserver/cmd"
 	"net/http"
 )
 
