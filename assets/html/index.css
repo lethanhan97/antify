@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(227, 227, 227);
+}
+
+video {
+  border-radius: 2rem;
+  display: block;
+}
+
+.main {
+  display: flex;
+}
+
+#video-main {
+  height: 100vh;
+  width: 30vw;
+}
+
+#video-left-1 {
+  height: 40vh;
+  width: 30vw;
+}
+
+#video-left-2 {
+  height: 60vh;
+  width: 30vw;
+}
+
+#video-right-1 {
+  height: 70vh;
+  width: 30vw;
+}
+
+#video-right-2 {
+  height: 30vh;
+  width: 30vw;
+}
